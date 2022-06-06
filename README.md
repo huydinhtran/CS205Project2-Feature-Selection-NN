@@ -13,6 +13,5 @@ Email: htran197@ucr.edu
 Implementation of a Feature Selection with Nearest Neighbor using Forward Selection and Backward Elimination Algorithm
 
 - CS205_Project_2.ipynb (source code)
-- Small Forward.ipynb, Small Backward.ipynb, Large Forward.ipynb, Large Backward.ipynb (output traces)
 - CS205_SP_2022_SMALLtestdata__66.txt (small dataset)
 - CS205_SP_2022_LARGEtestdata__48.txt (large dataset)
